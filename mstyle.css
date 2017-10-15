@@ -1,0 +1,44 @@
+﻿
+h2 { 
+    font-size: 120%; /* Размер шрифта */
+    font-family: Verdana, Arial, Helvetica, sans-serif; /* Семейство шрифта */
+    color: black; /* Цвет текста */
+   }
+   
+p.a
+	{
+		font-family: Arial, Helvetica, Verdana, sans-serif; /* Гарнитура шрифта */ 
+		font-size: 100%; /* Размер текста */ 
+		font-weight: bold; 
+		line-height: 0.1;
+		color: black;
+	}
+#b
+	{
+		font-family: Arial, Helvetica, Verdana, sans-serif; /* Гарнитура шрифта */ 
+		font-size: 120%; /* Размер текста */ 
+		font-weight: normal; 
+		color: black; 
+	}
+	
+div
+	{
+		font-family: Arial, Helvetica, Verdana, sans-serif; /* Гарнитура шрифта */ 
+		font-size: 80%; /* Размер текста */ 
+		font-weight: normal; /* Светлое начертание */
+	}
+
+table.main
+	{
+		background-color: #FFD800;
+	}
+	
+table.details
+	{
+		background-color: #43FF00;
+	}
+tr.main_data
+	{
+		background-color:;
+	}
+
